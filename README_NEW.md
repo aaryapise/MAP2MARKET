@@ -1,4 +1,4 @@
-# 🚀 Map2Market - AI Chakravyuh
+# 🚀 Map2Market - Startup Feasibility Analyzer
 
 > **AI-powered multi-agent platform for startup market analysis and feasibility assessment**
 
